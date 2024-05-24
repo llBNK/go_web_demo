@@ -1,0 +1,17 @@
+{"level":"INFO","time":"2024-05-22T22:51:30.802+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
+{"level":"ERROR","time":"2024-05-22T22:51:30.863+0800","caller":"mysql/mysql.go:24","msg":"grom init failed %v\n"}
+{"level":"INFO","time":"2024-05-22T22:51:49.711+0800","caller":"web_demo/main.go:73","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-05-22T23:23:47.559+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
+{"level":"ERROR","time":"2024-05-22T23:23:47.577+0800","caller":"mysql/mysql.go:23","msg":"grom init failed %v\n"}
+{"level":"INFO","time":"2024-05-22T23:24:01.095+0800","caller":"web_demo/main.go:73","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-05-22T23:24:11.090+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
+{"level":"ERROR","time":"2024-05-22T23:24:11.102+0800","caller":"mysql/mysql.go:23","msg":"grom init failed %v\n"}
+{"level":"INFO","time":"2024-05-22T23:24:22.008+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0","errors":"","cost":0}
+{"level":"INFO","time":"2024-05-22T23:24:22.009+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0","errors":"","cost":0.0006985}
+{"level":"INFO","time":"2024-05-22T23:25:06.663+0800","caller":"web_demo/main.go:73","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2024-05-24T07:44:45.491+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
+{"level":"ERROR","time":"2024-05-24T07:44:45.525+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"INFO","time":"2024-05-24T08:05:40.060+0800","caller":"web_demo/main.go:73","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2024-05-24T08:06:44.897+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
+{"level":"ERROR","time":"2024-05-24T08:06:44.914+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"INFO","time":"2024-05-24T08:09:38.378+0800","caller":"web_demo/main.go:73","msg":"Shutdown Server ..."}
