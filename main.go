@@ -32,19 +32,19 @@ func main() {
 
 	//2．初始化日志
 	if err = logger.Init(settings.Conf.LogConfig); err != nil {
-		fmt.Printf("init settings failed,error:%v\n", err)
+		fmt.Printf("init logger failed,error:%v\n", err)
 	}
 	defer zap.L().Sync()
 	zap.L().Debug("logger init success")
 
 	//3．初始化MySQL连接
 	if err = mysql.Init(settings.Conf.MySQLConfig); err != nil {
-		fmt.Printf("init settings failed,error:%v\n", err)
+		fmt.Printf("init mysql failed,error:%v\n", err)
 	}
 	defer mysql.Close()
 	//4．初始化Redis连接
 	if err = redis.Init(settings.Conf.RedisConfig); err != nil {
-		fmt.Printf("init settings failed,error:%v\n", err)
+		fmt.Printf("init redis failed,error:%v\n", err)
 	}
 	defer redis.Close()
 	//5，注册路由

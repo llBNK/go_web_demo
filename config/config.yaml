@@ -1,7 +1,6 @@
-app:
-  name: "web_demo"
-  mode: "dev"
-  port: 8081
+name: "web_demo"
+mode: "dev"
+port: 8081
 
 log:
   level: "debug"
