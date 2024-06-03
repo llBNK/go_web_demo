@@ -17,9 +17,7 @@ func Setup(mode string) *gin.Engine {
 	r.GET("/", func(context *gin.Context) {
 		context.JSON(http.StatusOK, "ok")
 	})
-
 	return r
-
 }
 
 type mapValue struct {

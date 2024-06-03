@@ -17,8 +17,7 @@ func Init(cfg *settings.MySQLConfig) (err error) {
 	dbConfig = getMysqlConfig(cfg)
 
 	db, err = gorm.Open("mysql", dbConfig)
-	if err == nil {
-		//fmt.Printf("mysql init failed %v\n", err)
+	if err != nil {
 		zap.L().Error("grom init failed %v\n", zap.Error(err))
 	}
 

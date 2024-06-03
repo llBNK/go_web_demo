@@ -61,3 +61,9 @@
 {"level":"ERROR","time":"2024-06-02T13:27:39.671+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
 {"level":"DEBUG","time":"2024-06-02T17:12:01.481+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
 {"level":"ERROR","time":"2024-06-02T17:12:01.503+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-03T20:26:24.526+0800","caller":"web_demo/main.go:41","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-03T20:26:24.585+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"INFO","time":"2024-06-03T20:28:32.833+0800","caller":"web_demo/main.go:77","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2024-06-03T21:36:21.724+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-03T21:36:21.753+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-03T21:37:09.373+0800","caller":"web_demo/main.go:38","msg":"logger init success"}

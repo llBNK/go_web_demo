@@ -20,8 +20,7 @@ import (
 	"go.uber.org/zap"
 )
 
-//go web demo
-
+// go web demo
 func main() {
 
 	var err error
@@ -30,7 +29,6 @@ func main() {
 		fmt.Printf("init settings failed,error:%v\n", err)
 	}
 
-	//2．初始化日志
 	//2．初始化日志
 	if err = logger.Init(settings.Conf.LogConfig, settings.Conf.Mode); err != nil {
 		fmt.Printf("init logger failed,error:%v\n", err)
