@@ -21,4 +21,4 @@ mysql:
 redis:
   host: "192.168.238.128"
   port: 6379
-  db: 0
+#  db: 0

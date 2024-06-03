@@ -15,3 +15,49 @@
 {"level":"DEBUG","time":"2024-05-24T08:06:44.897+0800","caller":"web_demo/main.go:38","msg":"logger init success"}
 {"level":"ERROR","time":"2024-05-24T08:06:44.914+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
 {"level":"INFO","time":"2024-05-24T08:09:38.378+0800","caller":"web_demo/main.go:73","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2024-06-02T11:44:02.176+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:44:02.211+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T11:45:17.973+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:45:17.993+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T11:47:29.749+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:47:29.768+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T11:51:28.728+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:51:28.748+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T11:54:38.906+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:54:38.926+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T11:57:15.269+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:57:15.291+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T11:58:37.907+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T11:58:37.926+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:05:30.897+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:05:30.918+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:08:15.345+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:08:15.365+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:09:24.383+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:09:24.400+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:09:36.129+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:09:36.151+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:12:13.280+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:12:13.298+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:12:27.454+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:12:27.476+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:19:49.838+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:19:49.856+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:21:08.375+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:21:08.397+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:22:41.854+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:22:41.875+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:24:09.807+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:24:09.826+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T12:25:12.948+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T12:25:12.969+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T13:13:22.751+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T13:13:22.778+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T13:13:30.049+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T13:13:30.069+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T13:25:41.315+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T13:25:41.335+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T13:27:39.650+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T13:27:39.671+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
+{"level":"DEBUG","time":"2024-06-02T17:12:01.481+0800","caller":"web_demo/main.go:39","msg":"logger init success"}
+{"level":"ERROR","time":"2024-06-02T17:12:01.503+0800","caller":"mysql/mysql.go:22","msg":"grom init failed %v\n"}
